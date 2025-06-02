@@ -1,6 +1,6 @@
 **Ứng dụng CNN và trích xuất điểm mốc khuôn mặt trong phát hiện deepfake**
 
-Giới thiệu
+**Giới thiệu**
 
 Dự án này tập trung vào việc phát hiện hình ảnh **Deepfake** bằng cách kết hợp giữa **mạng nơ-ron tích chập (CNN)** và **thông tin điểm mốc khuôn mặt**. Việc kết hợp đặc trưng hình học (như vị trí mắt, mũi, miệng...) với đặc trưng ảnh giúp mô hình học hiệu quả hơn và tăng độ chính xác trong phát hiện khuôn mặt bị giả mạo.
 
