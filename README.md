@@ -14,7 +14,6 @@ Deepfake đang là mối đe dọa lớn đối với sự xác thực trong tru
 - Kết hợp ảnh gốc với thông tin hình học từ điểm mốc làm đầu vào cho CNN
 - Áp dụng với các mô hình CNN cơ bản, MobileNetV2, DenseNet121
 - Đánh giá mô hình bằng các chỉ số: Accuracy, F1-score, ma trận nhầm lẫn, Precision, Recall
-- 
 **Hướng phát triển**
 
 - Áp dụng cho video Deepfake, không chỉ ảnh tĩnh
